@@ -16,7 +16,7 @@ python etl.py
 ## Output
 - `sales_by_customer.csv`: Total Spend & Order Count per Customer
 - `sales_by_month.csv`: Total Spend per Month
-- `orders_clean.parquet`: Clean dataset in optimized format
+- `orders.parquet`: Clean dataset in optimized format
 
 ## Autor
 [Josue Armenta] - [2025-12-29]
